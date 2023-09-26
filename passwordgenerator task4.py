@@ -1,4 +1,3 @@
-# Auto detect text files and perform LF normalization
 import sys
 import random
 import string
@@ -57,4 +56,3 @@ if __name__ == '__main__':
     window = PasswordGeneratorApp()
     window.show()
     sys.exit(app.exec_())
-* text=auto
